@@ -188,7 +188,7 @@ Make sure pension fund asset > vested benefit liability
 Do not want recievables to pile up
 ---
 # 3. Final step
-##Fundamental Classification
+## Fundamental Classification
 1. Fast Growth
 2. Big Utility
 3. Turnaround
@@ -196,7 +196,7 @@ Do not want recievables to pile up
 5. Cyclical 
 6. Hidden Assets
 
-##More research
+## More research
 Speak to distributor, customer, competitor
 Speak to IR 
 
