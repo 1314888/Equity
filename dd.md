@@ -48,6 +48,7 @@ Short term dip in earnings / cashflow
 
 	- Due to macro factors
 	- Due to acquisition
+	- Due to accidents / one off incidents
 	
 ---
 # 2. Due Diligence
