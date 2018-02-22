@@ -74,12 +74,12 @@ Is there analyst coverage?
 - The more then the worse (more efficient) 
 
 What type of company is this?
-	1. Fast Growth
-	2. Big Utility
-	3. Turnaround
-	4. Dividend
-	5. Cyclical 
-	6. Hidden Assets
+1. Fast Growth
+2. Big Utility
+3. Turnaround
+4. Dividend
+5. Cyclical 
+6. Hidden Assets
 
 # 3. Shareholder Structure And Management
 Is there insider ownership?
