@@ -12,7 +12,7 @@ Buying Dips -Stock is down sharply, near recent low, long term fundamental sound
 Moves are accompanied by strong volume for confirmation, weak volume for reversal
 
 ## 1.2 Business
-### 1.2a Catalyst  
+### 1.21 Catalyst  
 - An event event that can change the market’s perception about a company or something that can improve margin or revenue greatly
 	- New Tech
 	- New Product
@@ -27,7 +27,7 @@ Moves are accompanied by strong volume for confirmation, weak volume for reversa
 	- Turnaround
 *Strong price action and weak fundamentals often occur in turnaround companies, or companies with new technology that is not fully understood*  
 
-### 1.2b Have an edge
+### 1.22 Have an edge
 - Niche 
 - Patent
 - Monopoly
@@ -39,7 +39,7 @@ Moves are accompanied by strong volume for confirmation, weak volume for reversa
 *Edge must be able to persist for next 5 to 10 years*
 
 ## 1.3 Financial
-### 1.3a Asset have not been priced in
+### 1.31 Asset have not been priced in
 - Cash
 - Legacy assets (rights, land)
 - Goodwill
@@ -47,48 +47,14 @@ Moves are accompanied by strong volume for confirmation, weak volume for reversa
 - Tax loss / Operating Loss carry forward
 - Assets unfairly written off
 
-### 1.3b Short term dip in earnings / cashflow
+### 1.32 Short term dip in earnings / cashflow
 - Due to macro factors
 - Due to acquisition
 - Due to accidents / one off incidents
 	
 ---
-# 2. Due Diligence
-## 2.1 Macro
-Note the larger context we are operating in
-- Market in bull or bear phase
-- Market optimistic, pessimistic
-- What is the volatility of assets now
-- How is other competing asset classes doing
 
-## 2.2 Price and Volume Trend
-### 2.2a What trend is the stock showing?
-- What is the price trend, growth in 1 week / 1 month 
-	- Not good when the stock makes too much money in too little time
-- What is the volume trend
-- How is the volatility like - focus on stocks with linearity, does not swings all over the place
-- Key support resistance levels
-	- 200 MA, round numbers
-	- 52 week high, low
-	- Insider buying price
-- Key growth and drops in the past
-
-### 2.2b Reaction to events
-- How did it react to bad news (bad earnings last time)
-- How did it hold up during market correction, how much bad news for it to fall
-
-### 2.2c Relative strength
-- Is it the first to rebound after market come off from relative low
-- Did it fall more than peers during fall, rise more than peers during bull?
-- Who is the leader, laggard here?
-	
-### 2.2d For earnings surprise, or news
-- Difference in actual vs expected (earnings or news etc) 
-- If it has already been trending up when the market is flat, that means it has probably been discounted
-- If it has been trending downwards, then earning is good, shorts have to cover, new investor wants to buy. 
-- Event is undiscounted, price can go up
-
-## 2.3 Competitive Advantage
+# 2 Competitive Advantage
 How did the industry as a whole perform, is it expecting to grow?  
 How is business in different sub sectors (geography, demographic etc)  
 What is its main source of revenue?
@@ -107,7 +73,15 @@ What is their growth plan
 Is there analyst coverage? 
 - The more then the worse (more efficient) 
 
-## 2.4 Shareholder Structure And Management
+What type of company is this?
+	1. Fast Growth
+	2. Big Utility
+	3. Turnaround
+	4. Dividend
+	5. Cyclical 
+	6. Hidden Assets
+
+# 3 Shareholder Structure And Management
 Is there insider ownership?
 - Possible find out what price they buy at, try to buy lower than them
 - Compare the amount of stock a person buys with his Net Worth and salary
@@ -121,8 +95,8 @@ Is the management team stable, are there a lot of changes(high turnovers in CFO)
 Does the management blame performance on other factors like short sellers etc  
 Has there been a change in auditor? Why?  
 
-## 2.5 Financials
-### 2.5a Income statement
+# 4 Financials
+## 4.1 Income statement
 #### Revenue
 - What product contribute to what percent of sales?
 - Gross Profit Margin at least 30, 40% and above is good
@@ -160,7 +134,7 @@ ROA >10 %
 What is the growth rate in earnings  
 How does earnings compare to competitors and industry
 
-#### 2.5b Balance Sheet 
+#### 4.2 Balance Sheet 
 
 #### Cash, Inventory, Recievables
 A lot of cash is good but make sure it is not created by one off event
@@ -219,7 +193,7 @@ Pension
 Long term investment
 - Could also reflect investement mindset of top management
 
-#### 2.5bc Statement of Equity
+#### 4.3 Statement of Equity
 Shareholder equity = preferred comon stock + paid in capital + retained earnings  
 Retained earnings 
 - Must have good trend of increasing (this is what increases networth), make sure it is not due to merger
@@ -236,7 +210,7 @@ Dividend
 - Do not want dividend payout in a high growth company
 
 
-### 2.5d Valuation
+### 4.4 Valuation
 What is the P/E compared to industry and peers?
 - If P/E between 8 - 12 times (any significant change can affect stock price)
 - Do not want P/E that is too high
@@ -246,17 +220,44 @@ What is the P/E compared to industry and peers?
 Can try to get earnings of individual sub business and assign hypothetical PE to get their valuation
 
 ---
-# 3 Final step
-##Fundamental Classification
 
-1. Fast Growth
-2. Big Utility
-3. Turnaround
-4. Dividend
-5. Cyclical 
-6. Hidden Assets
+# 5 Price and Volume Trend
+### 5.1 What trend is the stock showing?
+- What is the price trend, growth in 1 week / 1 month 
+	- Not good when the stock makes too much money in too little time
+- What is the volume trend
+- How is the volatility like - focus on stocks with linearity, does not swings all over the place
+- Key support resistance levels
+	- 200 MA, round numbers
+	- 52 week high, low
+	- Insider buying price
+- Key growth and drops in the past
 
-# 4. More research
+## 5.2 Reaction to events
+- How did it react to bad news (bad earnings last time)
+- How did it hold up during market correction, how much bad news for it to fall
+
+## 5.3 Relative strength
+- Is it the first to rebound after market come off from relative low
+- Did it fall more than peers during fall, rise more than peers during bull?
+- Who is the leader, laggard here?
+	
+## 5.4 For earnings surprise, or news
+- Difference in actual vs expected (earnings or news etc) 
+- If it has already been trending up when the market is flat, that means it has probably been discounted
+- If it has been trending downwards, then earning is good, shorts have to cover, new investor wants to buy. 
+- Event is undiscounted, price can go up
+
+# 6 Macro
+Note the larger context we are operating in
+- Market in bull or bear phase
+- Market optimistic, pessimistic
+- What is the volatility of assets now
+- How is other competing asset classes doing
+- Are there an unfavorable, favorable government policies
+- Any social trend, geopolitical tension etc?
+
+# 7. More research
 Speak to distributor, customer, competitor  
 Speak to IR 
 
