@@ -4,11 +4,10 @@ Look at best performing stock every year and learn from them
 # 1. Reasons to get involved
 ## 1.1 Price and Volume Trend
 Buying Dips -Stock is down sharply, near recent low, long term fundamental sound, price action good, but short term is bad
-
-	- 52 weeks low and stocks that make 60 - 70% decline but earnings moving up
-	- Price hit supports 
-	- Price fall belows price of insider buying
-	- Price break new all time high, or have a lot of upward momentum
+- 52 weeks low and stocks that make 60 - 70% decline but earnings moving up
+- Price hit supports 
+- Price fall belows price of insider buying
+- Price break new all time high, or have a lot of upward momentum
 	
 Moves are accompanied by strong volume for confirmation, weak volume for reversal
 
