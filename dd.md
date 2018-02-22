@@ -25,15 +25,14 @@ Catalyst  - An event event that can change the market’s perception about a com
 	- Corporate Restructuring
 		- Spin Off
 		- Post Bankruptcy
-
+	- Turnaround
+*Strong price action and weak fundamentals often occur in turnaround companies, or companies with new technology that is not fully understood*  
 Have an edge
 
 	- Niche 
 	- Patent
 	- Monopoly
 	- Strong Repeat Customer (Addictive)
-
-Turnaround: Strong price action and weak fundamentals often occur in turnaround companies, or companies with new technology that is not fully understood
 
 ## Financial
 Asset have not been priced in
