@@ -137,10 +137,10 @@ Has there been a change in auditor? Why?
 - Low interest payment <30% of EBIT
 
 #### Earnings
-When next earnings date will be released? 
-Remember to remove non-recurring / one off events from earnings  
-Not that revenue is declining but it might keep up earnings up by cutting cost
-Note that EPS might be affected by 
+When next earnings date will be released?   
+Remember to remove non-recurring / one off events from earnings    
+Not that revenue is declining but it might keep up earnings up by cutting cost  
+Note that EPS might be affected by
 - Share repurcahsing, hence if looking at trend, look at total earnings  
 
 Earnings Trend
@@ -157,7 +157,7 @@ Profit Margin
 	- For example, for turnaround you want it to be low because for the same increase in sales and costs, the EBIT will increase more
 ROE >20% 
 ROA >10 %
-What is the growth rate in earnings
+What is the growth rate in earnings  
 How does earnings compare to competitors and industry
 
 #### 2.5b Balance Sheet 
@@ -179,8 +179,8 @@ Lower net recievables / sales imply a good competitive advantage
 Look at the ratio of PPE to debt
 -  Should be able to finance it internally
 
-Is a lot of capex required to keep the business running?
-Look at capex 10 years vs earnings 10 years 50% less is good, 25% is better  
+Is a lot of capex required to keep the business running?  
+Look at capex 10 years vs earnings 10 years 50% less is good, 25% is better    
 *Look at 2 peroid PPE, add back deprecation to get capex or look under CFI*
 
 #### Debt
@@ -220,7 +220,7 @@ Long term investment
 - Could also reflect investement mindset of top management
 
 #### 2.5bc Statement of Equity
-Shareholder equity = preferred comon stock + paid in capital + retained earnings
+Shareholder equity = preferred comon stock + paid in capital + retained earnings  
 Retained earnings 
 - Must have good trend of increasing (this is what increases networth), make sure it is not due to merger
 - If it is decreasing, it would be ok if it is stock buyback 
@@ -233,7 +233,7 @@ Dividend
 - History of dividend, does it pay during bad times, over a long period
 	- Does it reduce div, increase etc
 - Dividend yield change with stock price ($2 dividend is 20% for $10, and 10% for $20)
--Do not want dividend payout in a high growth company
+- Do not want dividend payout in a high growth company
 
 
 ### 2.5d Valuation
