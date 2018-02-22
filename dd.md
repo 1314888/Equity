@@ -54,7 +54,7 @@ Moves are accompanied by strong volume for confirmation, weak volume for reversa
 	
 ---
 
-# 2 Competitive Advantage
+# 2. Competitive Advantage
 How did the industry as a whole perform, is it expecting to grow?  
 How is business in different sub sectors (geography, demographic etc)  
 What is its main source of revenue?
@@ -81,7 +81,7 @@ What type of company is this?
 	5. Cyclical 
 	6. Hidden Assets
 
-# 3 Shareholder Structure And Management
+# 3. Shareholder Structure And Management
 Is there insider ownership?
 - Possible find out what price they buy at, try to buy lower than them
 - Compare the amount of stock a person buys with his Net Worth and salary
@@ -95,7 +95,7 @@ Is the management team stable, are there a lot of changes(high turnovers in CFO)
 Does the management blame performance on other factors like short sellers etc  
 Has there been a change in auditor? Why?  
 
-# 4 Financials
+# 4. Financials
 ## 4.1 Income statement
 #### Revenue
 - What product contribute to what percent of sales?
@@ -194,7 +194,7 @@ Pension
 Long term investment
 - Could also reflect investement mindset of top management
 
-#### 4.3 Statement of Equity
+### 4.3 Statement of Equity
 Shareholder equity = preferred comon stock + paid in capital + retained earnings  
 Retained earnings 
 - Must have good trend of increasing (this is what increases networth), make sure it is not due to merger
@@ -222,8 +222,8 @@ Can try to get earnings of individual sub business and assign hypothetical PE to
 
 ---
 
-# 5 Price and Volume Trend
-### 5.1 What trend is the stock showing?
+# 5.1 Price and Volume Trend
+## 5.1 What trend is the stock showing?
 - What is the price trend, growth in 1 week / 1 month 
 	- Not good when the stock makes too much money in too little time
 - What is the volume trend
