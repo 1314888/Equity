@@ -2,7 +2,7 @@ Look at best performing stock every year and learn from them
 
 ---
 # 1. Reasons to get involved
-## Price and Volume Trend
+## 1.1 Price and Volume Trend
 Buying Dips -Stock is down sharply, near recent low, long term fundamental sound, price action good, but short term is bad
 
 	- 52 weeks low and stocks that make 60 - 70% decline but earnings moving up
@@ -12,9 +12,9 @@ Buying Dips -Stock is down sharply, near recent low, long term fundamental sound
 	
 Moves are accompanied by strong volume for confirmation, weak volume for reversal
 
-## Business
-Catalyst  - An event event that can change the market’s perception about a company or something that can improve margin or revenue greatly
-
+## 1.2 Business
+### 1.2a Catalyst  
+- An event event that can change the market’s perception about a company or something that can improve margin or revenue greatly
 	- New Tech
 	- New Product
 	- Government policy
@@ -27,93 +27,86 @@ Catalyst  - An event event that can change the market’s perception about a com
 		- Post Bankruptcy
 	- Turnaround
 *Strong price action and weak fundamentals often occur in turnaround companies, or companies with new technology that is not fully understood*  
-Have an edge
 
-	- Niche 
-	- Patent
-	- Monopoly
-	- Strong Repeat Customer (Addictive)
+### 1.2b Have an edge
+- Niche 
+- Patent
+- Monopoly
+- Strong Repeat Customer (Addictive)
+- Not people dependent
+- Strong brand equity
+- Low Cost buyer
+	
+*Edge must be able to persist for next 5 to 10 years*
 
-## Financial
-Asset have not been priced in
+## 1.3 Financial
+### 1.3a Asset have not been priced in
+- Cash
+- Legacy assets (rights, land)
+- Goodwill
+- Parent / Subsi arb
+- Tax loss / Operating Loss carry forward
+- Assets unfairly written off
 
-	- Cash
-	- Legacy assets (rights, land)
-	- Goodwill
-	- Parent / Subsi arb
-	- Tax loss / Operating Loss carry forward
-	- Assets unfairly written off
-
-Short term dip in earnings / cashflow
-
-	- Due to macro factors
-	- Due to acquisition
-	- Due to accidents / one off incidents
+### 1.3b Short term dip in earnings / cashflow
+- Due to macro factors
+- Due to acquisition
+- Due to accidents / one off incidents
 	
 ---
 # 2. Due Diligence
-## Macro
+## 2.1 Macro
 Note the larger context we are operating in
+- Market in bull or bear phase
+- Market optimistic, pessimistic
+- What is the volatility of assets now
+- How is other competing asset classes doing
 
-	- Market in bull or bear phase
-	- Market optimistic, pessimistic
-	- What is the volatility of assets now
-	- How is other competing asset classes doing
+## 2.2 Price and Volume Trend
+### 2.2a What trend is the stock showing?
+- What is the price trend, growth in 1 week / 1 month 
+	- Not good when the stock makes too much money in too little time
+- What is the volume trend
+- How is the volatility like - focus on stocks with linearity, does not swings all over the place
+- Key support resistance levels
+	- 200 MA, round numbers
+	- 52 week high, low
+	- Insider buying price
+- Key growth and drops in the past
+
+### 2.2b Reaction to events
+- How did it react to bad news (bad earnings last time)
+- How did it hold up during market correction, how much bad news for it to fall
+
+### 2.2c Relative strength
+- Is it the first to rebound after market come off from relative low
+- Did it fall more than peers during fall, rise more than peers during bull?
+- Who is the leader, laggard here?
 	
-## Price and Volume Trend
-What trend is the stock showing?
+### 2.2d For earnings surprise, or news
+- Difference in actual vs expected (earnings or news etc) 
+- If it has already been trending up when the market is flat, that means it has probably been discounted
+- If it has been trending downwards, then earning is good, shorts have to cover, new investor wants to buy. 
+- Event is undiscounted, price can go up
 
-	- What is the price trend, growth in 1 week / 1 month 
-		- Not good when the stock makes too much money in too little time
-	- What is the volume trend
-	- How is the volatility like - focus on stocks with linearity, does not swings all over the place
-	- Key support resistance levels
-		- 200 MA, round numbers
-		- 52 week high, low
-		- Insider buying price
-	- Key growth and drops in the past
-
-Reaction to events
-
-	- How did it react to bad news (bad earnings last time)
-	- How did it hold up during market correction, how much bad news for it to fall
-
-Relative strength
-
-	- Is it the first to rebound after market come off from relative low
-	- Did it fall more than peers during fall, rise more than peers during bull?
-	- Who is the leader, laggard here?
-	
-For earnings surprise, or news
-
-	- Difference in actual vs expected (earnings or news etc) 
-	- If it has already been trending up when the market is flat, that means it has probably been discounted
-	- If it has been trending downwards, then earning is good, shorts have to cover, new investor wants to buy. 
-	- Event is undiscounted, price can go up
-
-## Competitive Advantage
+## 2.3 Competitive Advantage
 How did the industry as a whole perform, is it expecting to grow?  
 How is business in different sub sectors (geography, demographic etc)  
 What is its main source of revenue?
-
-	- Do not want to be dependent on a single customer for income (if they are middle of supply chain) 
+- Do not want to be dependent on a single customer for income (if they are middle of supply chain) 
 
 What is its main products and services?
-
-	- Do not want diworisifcation when they diverse business to other stuff that is outside core experise
+- Do not want diworisifcation when they diverse business to other stuff that is outside core experise
 
 What is its competitive advantage?
-
-	- Do not want a company that is doing great but have a competitor is creeping up to it and no one notice
+- Do not want a company that is doing great but have a competitor is creeping up to it and no one notice
 
 Who is its main competitor?  
 What is their growth plan
-
-	- Is their growth plan flawed or sound
+- Is their growth plan flawed or sound
 
 Is there analyst coverage? 
-
-	- The more then the worse (more efficient) 
+- The more then the worse (more efficient) 
 
 ## Shareholder Structure And Management
 Is there insider ownership?
@@ -131,6 +124,82 @@ Does the management blame performance on other factors like short sellers etc
 Has there been a change in auditor? Why?  
 
 ## Financials
+
+
+### Income statement
+#### Revenue
+- What product contribute to what percent of sales?
+- Gross Profit Margin at least 30, 40% and above is good
+
+#### Operating Expenses
+- SGA (salary, advert, travel, legal, comm)
+	- Consistency the most important, keep it between 30 - 80%
+- Low R&D cost <30%
+- Depreciation cost <20% (not capital intensive)
+
+#### Interest 
+- Low interest payment <30% of EBIT
+
+#### Earnings
+When next earnings date will be released? 
+Remember to remove non-recurring / one off events from earnings  
+Not that revenue is declining but it might keep up earnings up by cutting cost
+Note that EPS might be affected by 
+- Share repurcahsing, hence if looking at trend, look at total earnings  
+
+Earnings Trend
+- How far does year to date earnings differ from past year  
+- How is the Q - Q earnings? 
+- What is the quarterly and yearly earnings trend?
+	- Got down before? Why?
+- How did earnings perform during recession
+
+Profit Margin
+- Net profit margin >20%, at least 10%
+- High profit margin is good for long term value and holding
+- High profit margin might be bad because it means that there is no room for improvement
+	- For example, for turnaround you want it to be low because for the same increase in sales and costs, the EBIT will increase more
+
+Return on equity?  
+- >20% is good
+
+What is the growth rate in earnings
+How does earnings compare to competitors and industry
+
+#### Assets 
+Book Value
+- Sometimes hard to be priced properly
+	- The closer to finish product the less value
+	- What is the actual number in a bankruptcy sale?
+	
+- Find hidden gems in	
+	- Does it have legacy assets that are undervalued?  
+	- Does it have goodwill (extra over book value) that is slowly written off?  
+	- Did any asset get write off unfairly?  
+	- Parent vs subsidiary unfair pricing? Who is cheaper  
+	- Tax loss carry forward, operating loss carry forward  
+	
+#### Cash, Inventory, Recievables
+A lot of cash is good but make sure it is not created by one off event
+- Lots of cash and no debt for turnaround is good
+- Can subtract against the price of share when valuating
+
+Inventory piling up is bad 
+- If revenue increase while inventory pile up, it might be marked down for sale, but might be ok still
+	- Inventory that have value like cars pile up is better than clothes that have little value 
+- Consistent inventory most important
+
+Lower net recievables / sales imply a good competitive advantage
+
+#### PPE 
+
+### Others
+Make sure pension fund asset > vested benefit liability  
+Do not want recievables to pile up  
+
+
+
+
 ### Valuation
 What is the PE compared to industry and peers?
 
@@ -141,32 +210,12 @@ What is the PE compared to industry and peers?
 
 Can try to get earnings of individual sub business and assign hypothetical PE to get their valuation
 
-### Revenue
-What is the revenue like?
 
-	- What product contribute to what percent of sales?
-	- Maybe revenue is declining but it keep earnings up by cutting cost
 
-### Earnings
-When next earnings date will be released  
-How far does year to date earnings differ from past year  
-How is the Q - Q earnings?  
-What is the return on equity?  
-What is the earnings trend?
 
-	- Has there been a down quarter?
-	- Year to year how is the earnings, strong earnings record every quarter?
-	- How did earnings perform during recession
-	- What is the growth rate in earnings
 
-How does earnings compare to competitors and industry
 
-### Profit Margin
-How is the profit margin like?
 
-	- High profit margin is good for long term value and holding
-	- High profit margin might be bad because it means that there is no room for improvement
-	- For turn around you want it to be low because for the same increase in sales and costs, the EBIT will increase more
 
 ### Dividend Yield
 History of dividend, does it pay during bad times, over a long period
@@ -176,7 +225,7 @@ History of dividend, does it pay during bad times, over a long period
 
 Do not want that in a high growth company
 
-### Cash
+### Cashflow
 Free Cash flow per stock (OCF - CAPEX)
 
 	- EBIT (1-tax rate) + (depreciation) + (amortization) - (change in net working capital) - (capital expenditure)
@@ -189,26 +238,6 @@ Type of debt (funded debt vs due on demand)
 Cash - long term debt / share about more than 30%  
 Is interest coverage ok?  
 
-### Book 
-Cannot be priced properly, the closer to finish product the less value
-
-	- What is the actual number in a bankruptcy sale?
-Does it have legacy assets that are undervalued?  
-Does it have goodwill (extra over book value) that is slowly written off?  
-Did any asset get write off unfairly?  
-Parent vs subsidiary unfair pricing? Who is cheaper  
-Tax loss carry forward, operating loss carry forward  
-	
-
-### Inventory 
-Inventory piling up is bad 
-
-	- If revenue increase while inventory pile up might be marked down
-	- Inventory that have value like cars pile up is better than clothes that have little value 
-
-### Others
-Make sure pension fund asset > vested benefit liability  
-Do not want recievables to pile up  
 
 ---
 # 3. Final step
