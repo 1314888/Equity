@@ -107,13 +107,12 @@ What is their growth plan
 Is there analyst coverage? 
 - The more then the worse (more efficient) 
 
-## Shareholder Structure And Management
+## 2.4 Shareholder Structure And Management
 Is there insider ownership?
-
-	- Possible find out what price they buy at, try to buy lower than them
-	- Compare the amount of stock a person buys with his Net Worth and salary
-	- Make sure that it is purchase of new shares and not exercise of options
-	- Lots of insider ownserhip is good (job security vs stock appreciation) 
+- Possible find out what price they buy at, try to buy lower than them
+- Compare the amount of stock a person buys with his Net Worth and salary
+- Make sure that it is purchase of new shares and not exercise of options
+- Lots of insider ownserhip is good (job security vs stock appreciation) 
 
 Is there institutional ownership?  
 Is there share buyback?  
@@ -122,10 +121,8 @@ Is the management team stable, are there a lot of changes(high turnovers in CFO)
 Does the management blame performance on other factors like short sellers etc  
 Has there been a change in auditor? Why?  
 
-## Financials
-
-
-### Income statement
+## 2.5 Financials
+### 2.5a Income statement
 #### Revenue
 - What product contribute to what percent of sales?
 - Gross Profit Margin at least 30, 40% and above is good
@@ -158,30 +155,18 @@ Profit Margin
 - High profit margin is good for long term value and holding
 - High profit margin might be bad because it means that there is no room for improvement
 	- For example, for turnaround you want it to be low because for the same increase in sales and costs, the EBIT will increase more
-
-Return on equity?  
-- >20% is good
-
+ROE >20% 
+ROA >10 %
 What is the growth rate in earnings
 How does earnings compare to competitors and industry
 
-#### Assets 
-Book Value
-- Sometimes hard to be priced properly
-	- The closer to finish product the less value
-	- What is the actual number in a bankruptcy sale?
-	
-- Find hidden gems in	
-	- Does it have legacy assets that are undervalued?  
-	- Does it have goodwill (extra over book value) that is slowly written off?  
-	- Did any asset get write off unfairly?  
-	- Parent vs subsidiary unfair pricing? Who is cheaper  
-	- Tax loss carry forward, operating loss carry forward  
-	
+#### 2.5b Balance Sheet 
+
 #### Cash, Inventory, Recievables
 A lot of cash is good but make sure it is not created by one off event
 - Lots of cash and no debt for turnaround is good
 - Can subtract against the price of share when valuating
+- Cash - long term debt / share about more than 30%  
 
 Inventory piling up is bad 
 - If revenue increase while inventory pile up, it might be marked down for sale, but might be ok still
@@ -189,57 +174,79 @@ Inventory piling up is bad
 - Consistent inventory most important
 
 Lower net recievables / sales imply a good competitive advantage
-
+	- Do not want recievables to pile up  
 #### PPE 
+Look at the ratio of PPE to debt
+-  Should be able to finance it internally
 
-### Others
-Make sure pension fund asset > vested benefit liability  
-Do not want recievables to pile up  
+Is a lot of capex required to keep the business running?
+Look at capex 10 years vs earnings 10 years 50% less is good, 25% is better  
+*Look at 2 peroid PPE, add back deprecation to get capex or look under CFI*
+
+#### Debt
+Short term debt is supsectaible to sudden shift in credit markets
+- Compare short term to long term debt ratio, don’t let it be more 
+	
+Long term Debt - Good companies are supposed to be self financing
+- Net earnings must be able to pay of long term debt in 3 - 4 years
+	- Can compare FCF - long term debt also
+		- Free Cash flow (CFO - CAPEX)
+- Debt equity <30%, max 80%
+ 	- Can be overstated if company is buying back shares and decreases shareholder equity
+	- Hence if that is the case, must add back treasruy stock
+- Look at the trend over last 10 years, if little then good
+- If have significant debt then
+	- Is it due a a leverage buyout or what?
+	- Analyze the debt structure
+		- What is the type of debt (funded debt vs due on demand) 
+		- When is the debt due
+#### Others
+Total Book Value 
+- Sometimes hard to be priced properly
+	- The closer to finish product the less value
+	- What is the actual number in a bankruptcy sale?	
+
+Find hidden gems in	
+- Does it have legacy assets that are undervalued?  
+- Does it have goodwill (extra over book value) that is slowly written off?  
+- Did any asset get write off unfairly?  
+- Parent vs subsidiary unfair pricing? Who is cheaper  
+- Tax loss carry forward, operating loss carry forward
+
+Pension
+- Make sure pension fund asset > vested benefit liability  
+
+Long term investment
+- Could also reflect investement mindset of top management
+
+#### 2.5bc Statement of Equity
+Shareholder equity = preferred comon stock + paid in capital + retained earnings
+Retained earnings 
+- Must have good trend of increasing (this is what increases networth), make sure it is not due to merger
+- If it is decreasing, it would be ok if it is stock buyback 
+- If companies that are pfoitable might not retain earnings cos they are very profitable
+
+Treasury Shares
+- It is good to see treasury shares, that means there is stock buyback action
+
+Dividend
+- History of dividend, does it pay during bad times, over a long period
+	- Does it reduce div, increase etc
+- Dividend yield change with stock price ($2 dividend is 20% for $10, and 10% for $20)
+-Do not want dividend payout in a high growth company
 
 
-
-
-### Valuation
-What is the PE compared to industry and peers?
-
-	- If P/E between 8 - 12 times (any significant change can affect stock price)
-	- Do not want P/E that is too high
-	- Do not want low absolute earnings too
-	- P/E vs growth rate + dividend yield
+### 2.5d Valuation
+What is the P/E compared to industry and peers?
+- If P/E between 8 - 12 times (any significant change can affect stock price)
+- Do not want P/E that is too high
+- Do not want low absolute earnings too
+- P/E vs growth rate + dividend yield
 
 Can try to get earnings of individual sub business and assign hypothetical PE to get their valuation
 
-
-
-
-
-
-
-
-### Dividend Yield
-History of dividend, does it pay during bad times, over a long period
-
-	- Does it reduce div, increase etc
-	- Dividend yield change with stock price ($2 dividend is 20% for $10, and 10% for $20)
-
-Do not want that in a high growth company
-
-### Cashflow
-Free Cash flow per stock (OCF - CAPEX)
-
-	- EBIT (1-tax rate) + (depreciation) + (amortization) - (change in net working capital) - (capital expenditure)
-		- Working Capital = CA - CL 
-Is a lot of capex required to keep the business running?
-
-### Debt
-Debt equity <30%  
-Type of debt (funded debt vs due on demand)  
-Cash - long term debt / share about more than 30%  
-Is interest coverage ok?  
-
-
 ---
-# 3. Final step
+# 3 Final step
 ##Fundamental Classification
 
 1. Fast Growth
