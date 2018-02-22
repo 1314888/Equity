@@ -112,10 +112,11 @@ Has there been a change in auditor? Why?
 
 #### Earnings
 When next earnings date will be released?   
-Remember to remove non-recurring / one off events from earnings    
-Not that revenue is declining but it might keep up earnings up by cutting cost  
 Note that EPS might be affected by
 - Share repurcahsing, hence if looking at trend, look at total earnings  
+- Revenue is declining but it might keep up earnings up by cutting cost  
+- Non-recurring / one off events from earnings (remove them)  
+
 
 Earnings Trend
 - How far does year to date earnings differ from past year  
